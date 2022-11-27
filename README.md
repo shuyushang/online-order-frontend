@@ -1,4 +1,4 @@
-# Front End of the Online Food Ordering System 
+# Online Food Ordering System (Front End) 
 
 A React, Spring, and Hibernate Based Online Food Ordering System
 
